@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invest Zakaria Chafiq | Consulenza Finanziaria</title>
+    <style>
+        body { font-family: 'Helvetica', sans-serif; background: #000; color: #fff; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; }
+        .container { max-width: 600px; text-align: center; padding: 20px; }
+        h1 { font-size: 2.5rem; letter-spacing: -2px; margin-bottom: 10px; }
+        p { font-weight: 300; line-height: 1.6; color: #aaa; margin-bottom: 30px; }
+        .profile-img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; margin-bottom: 20px; }
+        .btn { display: inline-block; padding: 15px 30px; background: #fff; color: #000; text-decoration: none; font-weight: bold; border-radius: 5px; transition: 0.3s; }
+        .btn:hover { background: #333; color: #fff; }
+        .disclaimer { font-size: 0.7rem; color: #555; margin-top: 50px; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="https://i.ibb.co/Lp21WkX/Zakaria-Chafiq.jpg" alt="Zakaria Chafiq" class="profile-img">
+        <h1>Invest Zakaria Chafiq</h1>
+        <p>Dal sacrificio alla strategia. Aiuto le persone a costruire il proprio futuro finanziario con metodo e disciplina. Professionista indipendente.</p>
+        
+        <a href="https://wa.me/393791879519?text=Ciao%20Zakaria,%20vorrei%20informazioni%20sulla%20consulenza%20finanziaria." class="btn">CONTATTAMI SU WHATSAPP</a>
+        
+        <p class="disclaimer">Servizio riservato esclusivamente ai maggiorenni.</p>
+    </div>
+
+</body>
+</html>
